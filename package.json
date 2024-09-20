@@ -13,6 +13,7 @@
     "cip:refresh": "ts-node scripts/cip.ts"
   },
   "dependencies": {
+    "@cookbookdev/docsbot": "^4.21.23",
     "@docusaurus/core": "^2.4.3",
     "@docusaurus/plugin-client-redirects": "^2.4.3",
     "@docusaurus/plugin-content-docs": "^2.4.3",
